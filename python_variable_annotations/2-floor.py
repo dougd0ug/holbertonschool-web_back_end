@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-from math import floor as math_floor
 """
 floor of a float
 """
+from math import floor as math_floor
 
 
 def floor(n: float) -> int:
