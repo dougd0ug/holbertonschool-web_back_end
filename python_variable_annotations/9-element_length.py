@@ -2,9 +2,9 @@
 """
 return vlaue with type
 """
-from typing import Sequence, Tuple, List
+from typing import Iterable, Sequence, Tuple, List
 
-def element_length(lst: Sequence[str]) -> List[Tuple[str, int]]:
+def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
     """
     return value with type
     """
