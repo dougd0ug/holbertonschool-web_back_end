@@ -4,7 +4,7 @@ chnage all topics of a document
 """
 
 
-def update_topics(mongo_collection, **kwargs):
+def insert_school(mongo_collection, **kwargs):
     """
     change all topics
     """
