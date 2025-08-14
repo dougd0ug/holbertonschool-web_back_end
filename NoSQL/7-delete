@@ -1,2 +1,2 @@
-// adds a new attribute
-db.school.deleteMany({name: 'Holberton School'})
+// delete attribute
+db.school.deleteMany({name: "Holberton School"})
